@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "844028527374",
+    "firebase_url": "https://italy-os.firebaseio.com",
+    "project_id": "italy-os",
+    "storage_bucket": "italy-os.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844028527374:android:23481996c504c1c8",
+        "android_client_info": {
+          "package_name": "it.unicam.envos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844028527374-55v6ngoqo002hf4ui8mjjsjfdjvpojve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrhwGzIipZVFEVhmycA4x9wQ03qWijWus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844028527374-55v6ngoqo002hf4ui8mjjsjfdjvpojve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
