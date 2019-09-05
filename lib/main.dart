@@ -9,7 +9,7 @@ void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
   final auth = new Auth();
-  final String gatewayAddr = "http://192.168.0.11:3004";
+  final String gatewayAddr = "https://public-api-gateway.herokuapp.com";
 
   // This widget is the root of your application.
   @override
